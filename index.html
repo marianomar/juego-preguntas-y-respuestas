@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego De Preguntas</title>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script> 
+</head>
+<body>
+    <style>
+        *{
+            transition: all 0,3s;
+        }
+        .contenedor{
+            width: 100vw;
+            height: 100vh;
+            display: inline-flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        body{
+            background-color: grey;
+            text-align: center;
+        }
+        .encabezado{
+            background-color: white;
+            min-width: 200px;
+            width: 60%;
+        }
+        .puntuacion{
+            text-align: left;
+        }
+        .categoria{
+            text-align: right;
+        }
+        .boton{
+            background-color: white;
+            width: 50%;
+            padding: 10px;
+            margin: 5px;
+        }
+        .boton:hover{
+            background-color:blue
+        }
+    </style>
+    <div class="contenedor">
+       <div class="encabezado">
+           <div id="puntuacion" class="puntuacion"> Puntiación:</div>
+           <div class="categoria" id="categoria">
+               Categoría
+           </div>
+           <div class="pregunta" id="pregunta">
+               Pregunta
+            </div>
+        </div>
+        <div class="boton" id="btn1" onclick="oprimirBtn(0)">
+            Opción 1
+        </div>
+        <div class="boton" id="btn2" onclick="oprimirBtn(1)">
+            Opción 2
+        </div>
+        <div class="boton" id="btn3" onclick="oprimirBtn(2)">
+            Opción 3
+        </div>
+        <div class="boton" id="btn4" onclick="oprimirBtn(3)">
+            Opción 4
+        </div>
+
+    </div>
+</body>
+<script src="index.js"></script>
+</html>

@@ -1,0 +1,194 @@
+[
+  {
+    "categoria": "Arte y literatura",
+    "pregunta": "El premio Pritzker es de…",
+    "respuesta": "Arquitectura",
+    "incorrecta1": "Fotografía",
+    "incorrecta2": "Periodismo",
+    "incorrecta3": "Diseño Gráfico\r"
+  },
+  {
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién escribió “Fahrenheit 451”, “Crónicas Marcianas” y “El hombre ilustrado”?",
+    "respuesta": "Ray Bradbury",
+    "incorrecta1": "Cormac Mccarthy",
+    "incorrecta2": "Philip Roth",
+    "incorrecta3": "David Foster Wallace\r"
+  },
+  {
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Dónde nació el Nobel español Vicente Aleixandre?",
+    "respuesta": "Sevilla",
+    "incorrecta1": "Valladolid",
+    "incorrecta2": "La Coruña",
+    "incorrecta3": "Alicante\r"
+  },
+  {
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién escribió “Fahrenheit 451”, “Crónicas Marcianas” y “El hombre ilustrado”?",
+    "respuesta": "Ray Bradbury",
+    "incorrecta1": "Cormac Mccarthy",
+    "incorrecta2": "Philip Roth",
+    "incorrecta3": "David Foster Wallace\r"
+  },
+  {
+    "categoria": "Ciencia y técnologia",
+    "pregunta": "Cambio de estado ocurre en la sublimación.",
+    "respuesta": "Solido A Gaseoso",
+    "incorrecta1": "Gaseoso A Solido",
+    "incorrecta2": "Solido A Liquido",
+    "incorrecta3": "Liquido A Gaseoso\r"
+  },
+  {
+    "categoria": "Ciencia y técnologia",
+    "pregunta": "Cambio de sólido a gaseoso.",
+    "respuesta": "Sublimación",
+    "incorrecta1": "Cohesión",
+    "incorrecta2": "Evaporación",
+    "incorrecta3": "Condensación\r"
+  },
+  {
+    "categoria": "Ciencia y técnologia",
+    "pregunta": " Órgano del cuerpo humano produce la bilis.",
+    "respuesta": "Hígado",
+    "incorrecta1": "Páncreas",
+    "incorrecta2": "Estomago",
+    "incorrecta3": "Riñón\r"
+  },
+  {
+    "categoria": "Ciencia y técnologia",
+    "pregunta": "¿Dónde vive el delfín rosado?",
+    "respuesta": "En Brasil",
+    "incorrecta1": "En Oceanía",
+    "incorrecta2": "Solo En Aguas Cálidas",
+    "incorrecta3": "Solo En Aguas Muy Frías\r"
+  },
+  {
+    "categoria": "Ciencia y técnologia",
+    "pregunta": " Función principal del intestino grueso",
+    "respuesta": "Absorción De Agua",
+    "incorrecta1": "Producción De Insulina",
+    "incorrecta2": "Producción De Glucógeno",
+    "incorrecta3": "Producción Del Jugo Pancreático\r"
+  },
+  {
+    "categoria": "Historia",
+    "pregunta": "¿Cuántos premios Grammy ha ganado Britney Spears?",
+    "respuesta": "1",
+    "incorrecta1": "2",
+    "incorrecta2": "3",
+    "incorrecta3": "4\r"
+  },
+  {
+    "categoria": "Historia",
+    "pregunta": "¿Quién es Bella en la saga \"Crepúsculo\"?",
+    "respuesta": "Kristen Stewart",
+    "incorrecta1": "Cristina Ricci",
+    "incorrecta2": "Emma Watson",
+    "incorrecta3": "Dakota Fanning\r"
+  },
+  {
+    "categoria": "Historia",
+    "pregunta": "¿Cuál es considerado por los fans el peor juego de la historia de ATARI?",
+    "respuesta": "ET",
+    "incorrecta1": "Tetris",
+    "incorrecta2": "Combat",
+    "incorrecta3": "Galaxian\r"
+  },
+  {
+    "categoria": "Historia",
+    "pregunta": "¿En qué año tuvo lugar el ataque a Pearl Harbor?",
+    "respuesta": "1941",
+    "incorrecta1": "1939",
+    "incorrecta2": "1940",
+    "incorrecta3": "1942\r"
+  },
+  {
+    "categoria": "Historia",
+    "pregunta": "¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+    "respuesta": "Hugo Chávez",
+    "incorrecta1": "Evo Morales",
+    "incorrecta2": "Fidel Castro",
+    "incorrecta3": "Rafael Correa\r"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿Cuál es la capital del estado de Arkansas?",
+    "respuesta": "Little Rock",
+    "incorrecta1": "Kansas",
+    "incorrecta2": "Hot Springs",
+    "incorrecta3": "Washington\r"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿En qué país situarías la ciudad de Cali?",
+    "respuesta": "Colombia",
+    "incorrecta1": "Venezuela",
+    "incorrecta2": "Costa Rica",
+    "incorrecta3": "Chile\r"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿Cuál de estas características no pertenece al clima Mediterráneo?",
+    "respuesta": "Lluvias Muy Abundantes",
+    "incorrecta1": "Veranos Secos Y Calurosos",
+    "incorrecta2": "Es Un Tipo De Clima Templado",
+    "incorrecta3": "Variables Temperaturas En Primavera\r"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿Qué es el Cabo de Creus?",
+    "respuesta": "El Punto Más Oriental De La Península",
+    "incorrecta1": "El Punto Más Oriental De España",
+    "incorrecta2": "El Punto Más Oriental De Cataluña",
+    "incorrecta3": "Ninguna Es Correcta\r"
+  },
+  {
+    "categoria": "Geografía",
+    "pregunta": "¿Cuál es principal celebración holandesa?",
+    "respuesta": "El Día De La Reina",
+    "incorrecta1": "Halloween",
+    "incorrecta2": "Navidad",
+    "incorrecta3": "La Llegada Del Verano\r"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": " ¿De qué famosa película de Disney es el personaje Jafar?",
+    "respuesta": "Aladdin",
+    "incorrecta1": "Kroger",
+    "incorrecta2": "El Rey León ",
+    "incorrecta3": "Kris\r"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": " ¿En qué banda canta Anthony Kiedis ?",
+    "respuesta": "Red Hot Chili Peppers",
+    "incorrecta1": "Metalica",
+    "incorrecta2": "Aerosmith",
+    "incorrecta3": "Radiohead\r"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": " ¿Cómo se llama el personaje de 'Hellraiser' que tiene clavos en la cara?",
+    "respuesta": "Pinhead",
+    "incorrecta1": "No Tiene Nombre ",
+    "incorrecta2": "Arbusto ",
+    "incorrecta3": "Pinchoman\r"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Cuál fue el primer festival de rock gratuito en durar más de 3 días en 1969?",
+    "respuesta": "Woodstock",
+    "incorrecta1": "Glastonbury",
+    "incorrecta2": "Love Parade",
+    "incorrecta3": "Reading\r"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+    "respuesta": "Sinsajo",
+    "incorrecta1": "Lechuza ",
+    "incorrecta2": "Gale",
+    "incorrecta3": "Llamas\r"
+  }
+]
